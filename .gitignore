@@ -1,0 +1,16 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore log files
+*.log
+
+# Ignore IDE configuration files (optional, depending on preference)
+.vscode/
+
+# Ignore other common development files
+npm-debug.log
+yarn-error.log
